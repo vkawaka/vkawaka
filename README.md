@@ -7,7 +7,7 @@
 - 📚 I'm currently studying Web-Development at SENAI Prof° Vicente Amato
 - 👨‍💻 Logical
 - 🔎 I can indeed learn fast !
-- 🌟 Creative (somethimes ...)
+- 🌟 Creative (sometimes ...)
 
 <div style="display: inline-flex" align="center">
     <img src="https://i.pinimg.com/originals/ec/07/f1/ec07f1e9e3d0e4f9a2ee835ac343f47a.gif">
