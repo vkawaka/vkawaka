@@ -5,10 +5,6 @@
 
 ### 🦦 About me - 
 - 📚 I'm currently studying Web-Development at SENAI Prof° Vicente Amato
-- 🔎 I can indeed learn fast !
-- 🌟 Creative (sometimes ...)
-- 💔 I am actually really bad in PWFE 
-- 🩵 TXT and anime lover, there's a lot of their content here.
 
 <div style="display: inline-flex" align="center">
     <img src="https://i.pinimg.com/originals/ec/07/f1/ec07f1e9e3d0e4f9a2ee835ac343f47a.gif">
