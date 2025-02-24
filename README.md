@@ -1,5 +1,5 @@
 <div style="display: inline-flex" align="center">
-    <img src="https://i.pinimg.com/originals/65/2f/25/652f253995b84d6156dc4865be48837b.gif">
+    <img src="https://pin.it/49ulHc3ZF">
 </div>
 <h1 align="center"> Welcome to my space</h1>
 
