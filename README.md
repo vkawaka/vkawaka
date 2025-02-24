@@ -5,6 +5,9 @@
 
 ### 🫧 About me - 
 - 📚 I'm currently studying Web-Development at Instituto Federal de Ciências e Técnologia de São Paulo
+- 🎯 Always trying b=my best at everything, and seeking knowlegde
+- 🪻 My projects mostly includes my favorite interest: jellyfishes, TXT, P1harmony, the color blue, flowers. You'll probably see a lot of them around here
+- 🌎 Pt-br, Eng, Spn, Ko
 
 <div style="display: inline-flex" align="center">
     <img src="https://i.pinimg.com/originals/3e/98/e1/3e98e1cf55e5d94674511251b78c6f39.gif">
