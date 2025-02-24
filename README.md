@@ -1,13 +1,13 @@
 <div style="display: inline-flex" align="center">
-    <img src="https://i.pinimg.com/originals/56/9d/de/569ddeeddf4a4de67570d6950c6886cd.gif">
+    <img src="https://i.pinimg.com/originals/80/16/73/801673d03fdf480ab8397ec283875c78.gif">
 </div>
-<h1 align="center"> Welcome to my space</h1>
+<h1 align="center">Welcome to my cozy space 🪼</h1>
 
-### 🦦 About me - 
-- 📚 I'm currently studying Web-Development at SENAI Prof° Vicente Amato
+### 🫧 About me - 
+- 📚 I'm currently studying Web-Development at Instituto Federal de Ciências e Técnologia de São Paulo
 
 <div style="display: inline-flex" align="center">
-    <img src="https://i.pinimg.com/originals/ec/07/f1/ec07f1e9e3d0e4f9a2ee835ac343f47a.gif">
+    <img src="https://i.pinimg.com/originals/3e/98/e1/3e98e1cf55e5d94674511251b78c6f39.gif">
 </div>
 
 ### 👽 GitHub
