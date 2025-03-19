@@ -4,8 +4,8 @@
 <h1 align="center">Welcome to my cozy space 🪼</h1>
 
 ### 🫧 About me - 
-- 📚 I'm currently studying Web-Development at Instituto Federal de Ciências e Técnologia de São Paulo
-- 🎯 Always trying my best at everything, and chasing after knowlegde
+- 📚 I'm currently studying Web-Development at Instituto Federal de Ciências e Tecnologia de São Paulo
+- 🎯 Always trying my best at everything, and chasing after knowlegdement
 - 🪻 My projects mostly includes my favorite interest: jellyfishes, TXT, P1harmony, the color blue, flowers. You'll probably see a lot of them around here
 - 🌎 Pt-br, Eng, Spn, Ko
 
